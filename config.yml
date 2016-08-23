@@ -1,0 +1,12 @@
+mongo:
+    address: "127.0.0.1:27017"
+    db: "cyssl"
+    collection: "certificates"
+    username: "cyssl"
+    password: "cyssl"
+
+# turn on/off plugins, true for on, false for off
+plugins:
+    heartbleed: false
+    certificate: true
+    protocols: false
