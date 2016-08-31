@@ -373,7 +373,7 @@ func (d CertDetector) Detect(domain string, conn *tls.Conn) map[string]interface
 		certs := conn.ConnectionState().PeerCertificates
 
 		result["server"] = d.GetServerCert(certs, domain)
-		result["addtional"] = d.GetAdditionalCerts(certs)
+		result["additional"] = d.GetAdditionalCerts(certs)
 
 		paths := d.GetCertChains(certs)
 		result["path"] = paths
