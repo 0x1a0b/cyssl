@@ -1,3 +1,5 @@
+[![Go Report Card](https://goreportcard.com/badge/github.com/jetz/cyssl)](https://goreportcard.com/report/github.com/jetz/cyssl)
+
 #### 项目介绍
 
 ##### 编译运行
