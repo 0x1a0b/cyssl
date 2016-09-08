@@ -5,5 +5,10 @@ go:
   - 1.6
   - tip
 
+branches:
+  only:
+    - master
+    - develop
+
 script:
     - go build

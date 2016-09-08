@@ -10,8 +10,8 @@ import (
 
 	"github.com/fatih/color"
 
-	"ssl_scanner/db"
-	"ssl_scanner/plugins"
+	"github.com/jetz/cyssl/db"
+	"github.com/jetz/cyssl/plugins"
 )
 
 // SSLScanner scan SSL certificate/protocols/heartbleed etc.
