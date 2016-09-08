@@ -1,4 +1,5 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/jetz/cyssl)](https://goreportcard.com/report/github.com/jetz/cyssl)
+[![Build Status](https://travis-ci.org/jetz/cyssl.svg?branch=master)](https://travis-ci.org/jetz/cyssl)
 
 #### 项目介绍
 
